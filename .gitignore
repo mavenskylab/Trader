@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # macOS Files
-.DS_Store
+*.DS_Store
 
 # Pickle files
-.pickle
+*.pickle
